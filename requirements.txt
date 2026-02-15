@@ -1,0 +1,8 @@
+fastmcp
+langchain-community
+langchain-groq
+python-dotenv
+pywhatkit
+pyautogui
+requests
+youtube-transcript-api
